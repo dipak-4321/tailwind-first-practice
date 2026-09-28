@@ -1,3 +1,4 @@
 # Tailwind First Practice
-<br>
-This is the web desing without using css(not another css file) but only using Tailwind css
+
+This is my first practice project using Tailwind CSS.  
+The entire design is created using Tailwind CSS utility classes without writing a separate CSS file.
